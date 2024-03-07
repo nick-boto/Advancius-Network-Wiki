@@ -1,34 +1,34 @@
-| Weapon Enchants     | Rarity    | Applies to    | Max level | Effect                                                            |
-|---------------------|-----------|---------------|-----------|-------------------------------------------------------------------|
-| Devour              | Simple    | Sword and Axe | 5         | +10% to regen Hunger on mob kill                                  |
-| Ender Slayer        | Simple    | Sword and Axe | 10        | +1 dmg to Endermen                                                |
-| Nether Slayer       | Simple    | Sword and Axe | 10        | +1 dmg to Blazes & Pigmen                                         |
-| Outlaw              | Simple    | Sword and Axe | 10        | +1 dmg to Iron Golems & Villagers                                 |
-| Soul Harvest        | Simple    | Sword and Axe | 5         | +15% to regen HP and Hunger on player kill                        |
-| Ice Aspect          | Simple    | Sword         | 5         | +6% to give Slow 1 on hit                                         |
-| Pummel              | Simple    | Axe           | 5         | +6% to give Slow 2 on hit                                         |
-| Corpse   Absorption | Unique    | Sword and Axe | 10        | +5% to get +2 Absorb hearts on player kill                        |
-| Famine              | Unique    | Sword and Axe | 5         | +5% to give Hunger 2 (10 sec)                                     |
-| Thundering   Blow   | Unique    | Sword         | 3         | +10% to strike lightning on hit                                   |
-| Ignite              | Unique    | Axe           | 5         | +20% to set fire on hit                                           |
-| Virus               | Unique    | Bow           | 5         | +3% to give Poison 2 on hit                                       |
-| Snare               | Elite     | Bow           | 5         | +5% to give Slow and Weak on hit                                  |
-| Reaper              | Ultimate  | Sword and Axe | 5         | +3% to give Blind on hit                                          |
-| Venom               | Ultimate  | Sword and Axe | 3         | +5% to give Poison 1 on hit                                       |
-| Eagle Eye           | Ultimate  | Bow           | 5         | +10% to deal 1-4 durability dmg to all armor on hit               |
-| Inferno             | Legendary | Sword and Axe | 5         | +5% to set fire to all enemies in 5 block radius on hit           |
-| Inquisitive         | Legendary | Sword and Axe | 10        | +10% to get 200% EXP on mob kill                                  |
-| Shatter             | Legendary | Sword and Axe | 5         | +4% to deal extra durability dmg to all armor on hit              |
-| Cleave              | Legendary | Axe           | 5         | +3% to give Weak 2 to all enemies in 5 block radius on hit        |
-| Blacksmith          | Heroic    | Sword and Axe | 5         | +5% to get +1 durability on hit                                   |
-| Quake               | Heroic    | Sword and Axe | 5         | +5% to launch players into the air on hit                         |
-| Bolt                | Heroic    | Bow           | 5         | +4% to strike lightning on hit                                    |
-| Grapple             | Heroic    | Bow           | 5         | +6% to pull players towards you on hit                            |
-| Sniper              | Heroic    | Bow           | 5         | +10% to get Speed 3 and Regen 3 on headshot                       |
-| Tempest             | Mythical  | Sword and Axe | 5         | +2% to strike lightning on all enemies in 5 block radius on   hit |
-| Launch              | Mythical  | Axe           | 3         | Right click to launch yourself into the air (-5 sec cooldown)     |
+| Enchant Name      | Rarity    | Applies to    | Max level | Effect                                                            |
+|-------------------|-----------|---------------|-----------|-------------------------------------------------------------------|
+| Devour            | Simple    | Sword and Axe | 5         | +10% to regen Hunger on mob kill                                  |
+| Ender Slayer      | Simple    | Sword and Axe | 10        | +1 dmg to Endermen                                                |
+| Nether Slayer     | Simple    | Sword and Axe | 10        | +1 dmg to Blazes & Pigmen                                         |
+| Outlaw            | Simple    | Sword and Axe | 10        | +1 dmg to Iron Golems & Villagers                                 |
+| Soul Harvest      | Simple    | Sword and Axe | 5         | +15% to regen HP and Hunger on player kill                        |
+| Ice Aspect        | Simple    | Sword         | 5         | +6% to give Slow 1 on hit                                         |
+| Pummel            | Simple    | Axe           | 5         | +6% to give Slow 2 on hit                                         |
+| Corpse Absorption | Unique    | Sword and Axe | 10        | +5% to get +2 Absorb hearts on player kill                        |
+| Famine            | Unique    | Sword and Axe | 5         | +5% to give Hunger 2 (10 sec)                                     |
+| Thundering Blow   | Unique    | Sword         | 3         | +10% to strike lightning on hit                                   |
+| Ignite            | Unique    | Axe           | 5         | +20% to set fire on hit                                           |
+| Virus             | Unique    | Bow           | 5         | +3% to give Poison 2 on hit                                       |
+| Snare             | Elite     | Bow           | 5         | +5% to give Slow and Weak on hit                                  |
+| Reaper            | Ultimate  | Sword and Axe | 5         | +3% to give Blind on hit                                          |
+| Venom             | Ultimate  | Sword and Axe | 3         | +5% to give Poison 1 on hit                                       |
+| Eagle Eye         | Ultimate  | Bow           | 5         | +10% to deal 1-4 durability dmg to all armor on hit               |
+| Inferno           | Legendary | Sword and Axe | 5         | +5% to set fire to all enemies in 5 block radius on hit           |
+| Inquisitive       | Legendary | Sword and Axe | 10        | +10% to get 200% EXP on mob kill                                  |
+| Shatter           | Legendary | Sword and Axe | 5         | +4% to deal extra durability dmg to all armor on hit              |
+| Cleave            | Legendary | Axe           | 5         | +3% to give Weak 2 to all enemies in 5 block radius on hit        |
+| Blacksmith        | Heroic    | Sword and Axe | 5         | +5% to get +1 durability on hit                                   |
+| Quake             | Heroic    | Sword and Axe | 5         | +5% to launch players into the air on hit                         |
+| Bolt              | Heroic    | Bow           | 5         | +4% to strike lightning on hit                                    |
+| Grapple           | Heroic    | Bow           | 5         | +6% to pull players towards you on hit                            |
+| Sniper            | Heroic    | Bow           | 5         | +10% to get Speed 3 and Regen 3 on headshot                       |
+| Tempest           | Mythical  | Sword and Axe | 5         | +2% to strike lightning on all enemies in 5 block radius on   hit |
+| Launch            | Mythical  | Axe           | 3         | Right click to launch yourself into the air (-5 sec cooldown)     |
 
-| Armor Enchants | Rarity    | Applies to       | Max level | Effect                                              |
+| Enchant Name   | Rarity    | Applies to       | Max level | Effect                                              |
 |----------------|-----------|------------------|-----------|-----------------------------------------------------|
 | Clarity        | Simple    | All armor        | 3         | +20% to clear Blind when hit                        |
 | Sustain        | Simple    | All armor        | 5         | +5% to regen hunger when hit                        |
@@ -61,7 +61,7 @@
 | Springs        | Mythical  | Leggings         | 2         | Perma Jump Up +1                                    |
 | Sonic          | Mythical  | Boots            | 1         | Perma Speed 1                                       |
 
-| Tool Enchants  | Rarity    | Applies to     | Max level | Effect                                        |
+| Enchant Name   | Rarity    | Applies to     | Max level | Effect                                        |
 |----------------|-----------|----------------|-----------|-----------------------------------------------|
 | Rush           | Unique    | Pick and Spade | 5         | +5% to get Haste II on block break            |
 | Lucky Miner    | Unique    | Pick           | 10        | +5% to get 120% EXP on ore break              |
