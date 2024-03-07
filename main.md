@@ -4,3 +4,4 @@ This wiki is mainly for the **Skyblock** gamemode, which is currently in beta te
 ## Current Pages
 ### [Skyblock /recipes](SkySpecRecipes.md)
 ### [Skyblock /enchant](SkyCustomEnchs.md)
+### [Skyblock /gemshop](SkyGemShop.md)
