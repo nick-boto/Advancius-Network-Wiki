@@ -1,4 +1,5 @@
-# Weapon Enchants
+# (Skyblock) Custom Enchants
+## Weapon Enchants
 | Enchant Name      | Rarity    | Applies to    | Max level | Effect                                                            |
 |-------------------|-----------|---------------|-----------|-------------------------------------------------------------------|
 | Devour            | Simple    | Sword and Axe | 5         | +10% to regen Hunger on mob kill                                  |
@@ -29,7 +30,7 @@
 | Tempest           | Mythical  | Sword and Axe | 5         | +2% to strike lightning on all enemies in 5 block radius on   hit |
 | Launch            | Mythical  | Axe           | 3         | Right click to launch yourself into the air (-5 sec cooldown)     |
 
-# Armor Enchants
+## Armor Enchants
 | Enchant Name   | Rarity    | Applies to       | Max level | Effect                                              |
 |----------------|-----------|------------------|-----------|-----------------------------------------------------|
 | Clarity        | Simple    | All armor        | 3         | +20% to clear Blind when hit                        |
@@ -63,7 +64,7 @@
 | Springs        | Mythical  | Leggings         | 2         | Perma Jump Up +1                                    |
 | Sonic          | Mythical  | Boots            | 1         | Perma Speed 1                                       |
 
-# Tool Enchants
+## Tool Enchants
 | Enchant Name   | Rarity    | Applies to     | Max level | Effect                                        |
 |----------------|-----------|----------------|-----------|-----------------------------------------------|
 | Rush           | Unique    | Pick and Spade | 5         | +5% to get Haste II on block break            |
