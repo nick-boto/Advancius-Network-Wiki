@@ -1,4 +1,5 @@
 # (Skyblock) Custom Enchants
+This page covers the custom enchantments in Skyblock.
 ## Weapon Enchants
 | Enchant Name      | Rarity    | Applies to    | Max level | Effect                                                            |
 |-------------------|-----------|---------------|-----------|-------------------------------------------------------------------|
