@@ -7,4 +7,3 @@ This wiki is mainly for the **Skyblock** gamemode, which is currently in beta te
 ### [Skyblock /gemshop](SkyGemShop.md)
 ## Current Pages (Other)
 ### [Prison /recipes](PriSpecRecipes.md)
-### [Village Defense kits (CURRENTLY UNAVAILABLE)](VilKitsList.md)
