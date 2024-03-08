@@ -16,4 +16,4 @@ This page covers the special recipes in Prison.
 ## Talismans
 *Resistance 1* (**Toxic Eye**), *Strength 1* (**Golden Staff**), *Jump Boost 3* (**Evil Powder**), *3 damage to /dungeons mobs (**Ender Dust**), Unbreakable tools (**Ice Shard**), *Fire Resistance 1* (**Desert Flame**), *AutoSell Fish (**Sea Pebbles**).
 ### Talisman Base
-**Wild West Gold** x1, **Mermaid Crown** x1, **Poison Powder** x1, **Litter** x1, **Eye of a Kraken** x1, **Pickaxe Soul** x1, **Heart of Advancius** x1, **Forgotten Ash** x1.
+**Forgotten Ash** x1, **Wild West Gold** x1, **Mermaid Crown** x1, **Poison Powder** x1, **Litter** x1, **Eye of a Kraken** x1, **Pickaxe Soul** x1, **Heart of Advancius** x1
