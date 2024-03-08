@@ -1,5 +1,7 @@
 # (Skyblock) Gem Shop Items
 This page covers the gem shop items in Skyblock.
+
+[Go back to the Wiki home](main.md)
 ## Crate Keys
 **Common Crate Key**, 60 `Gems` - Opens a `Common Crate` at /crates
 
