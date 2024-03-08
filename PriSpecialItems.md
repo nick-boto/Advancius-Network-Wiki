@@ -1,5 +1,7 @@
-# (Prison) Special Recipes
-This page covers the special recipes in Prison.
+# (Prison) Special Items
+This page covers the special items craftable with /recipes in Prison.
+
+[Go back to the Wiki home](README.md)
 ## Armor Sets
 **Advancius Armor**
  - Community rating 5.0, no clear use but generally helpful
