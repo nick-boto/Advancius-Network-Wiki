@@ -1,7 +1,7 @@
 # (Skyblock) Special Recipes
 This page covers the special recipes in Skyblock.
 
-[Go back to the Wiki home](main.md)
+[Go back to the Wiki home](README.md)
 ## Armor Sets
 **Advancius Armor**
  - Community rating 5.0, no clear use but generally helpful
