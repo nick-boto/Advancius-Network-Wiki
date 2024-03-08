@@ -1,5 +1,5 @@
-# (Skyblock) Special Recipes
-This page covers the special recipes in Skyblock.
+# (Skyblock) Special Items
+This page covers the special items craftable with /recipes in Skyblock.
 
 [Go back to the Wiki home](README.md)
 ## Armor Sets
