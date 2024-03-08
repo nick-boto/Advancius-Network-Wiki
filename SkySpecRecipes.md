@@ -37,7 +37,7 @@ This page covers the special recipes in Skyblock.
  - Recipe: *Coming Soon!*
 
 ## Talismans
-*Resistance 2* (**Staff of Frost**), *Strength 2* (**Prism of Sorcery**), *Speed 2* (**Raindrop of Life**), *AutoSell Fish* (**Pirate Spyglass**)
+*Resistance 2* (**Staff of Frost**), *Strength 2* (**Prism of Sorcery**), *Speed 2* (**Raindrop of Life**), AutoSell Fish (**Pirate Spyglass**)
 *Jump Boost 2* (**Poison Essence**), *Water Breathing 2* (**Gem of the Sea**), *Fire Resistance 2* (**Amulet of Wealth**), *Night Vision 2* (**Corrupted Eye**)
 ### Talisman Base
 1x **Shadow Soul**, 1x **Sapphire Fragment**, 1x **Crystal Shard**, 1x **Dragon Egg**, 1x **Nether Star**, 1x **Lost Charm**, 1x **Sacred Tome**, 1x **Ancient Scrap**
